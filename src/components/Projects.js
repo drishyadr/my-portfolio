@@ -12,8 +12,8 @@ export default function Projects() {
     {
       title: "DevLink Portfolio",
       description: "A sleek React portfolio to showcase my dev work and skills.",
-      github: "https://github.com/drishya/devlink",
-      demo: "https://devlink.vercel.app"
+      github: "https://github.com/drishyadr/my-portfolio",
+      demo: "https://drishyadrportfolio.netlify.app/"
     }
   ];
 
