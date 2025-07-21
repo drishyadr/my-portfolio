@@ -11,8 +11,8 @@ export default function Contact() {
 
       <div className="contact-info">
         <p><a href="mailto:drishyadinojr1824@email.com"><strong>Email</strong> </a></p>
-        <p><a href="https://github.com/drishyadr" target="_blank"><strong>GitHub</strong></a></p>
-        <p><a href="https://www.linkedin.com/in/drishyadr/" target="_blank"><strong>LinkedIn</strong> </a></p>
+        <p><a href="https://github.com/drishyadr" target="_blank" rel="noopener noreferrer"><strong>GitHub</strong></a></p>
+        <p><a href="https://www.linkedin.com/in/drishyadr/" target="_blank" rel="noopener noreferrer"><strong>LinkedIn</strong> </a></p>
       </div>
 
       {/* Optional Form */}
