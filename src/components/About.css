@@ -1,0 +1,49 @@
+.about-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  padding: 4rem 2rem;
+  background-color: #1a1a1a;
+  color: #fff;
+  scroll-margin-top: 80px;
+  flex-wrap: wrap;
+}
+
+.profile-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  object-fit: cover;
+  border: 4px solid #fff;
+  box-shadow: 0 0 15px #ec0556;
+}
+
+.about-text {
+  max-width: 600px;
+}
+
+.about-text h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #f51761;
+}
+
+.about-text p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.resume-btn {
+  padding: 10px 20px;
+  background-color: #ff007a;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+.resume-btn:hover {
+  background-color: #cc0066;
+}
