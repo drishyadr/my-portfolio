@@ -13,8 +13,8 @@ export default function About() {
           learning AI/ML, and creating creative solutions. Whether it’s web development, 
           hackathons, or ambitious projects, I’m always ready to grow and glow. 
         </p>
-        <a href="../images/resume.pdf'" download>
-            <button className="resume-btn">Download Resume</button>
+        <a href="/resume.pdf" download>
+          <button className="resume-btn">Download Resume</button>
         </a>
       </div>
     </div>
